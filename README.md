@@ -1,3 +1,9 @@
+DEPLOYED VERSION CAN BE FOUND HERE [http://164.92.123.32/](http://164.92.123.32/)
+
+
+
+STEPS TO LOAD AND RUN ON LOCAL ENVIRONMENT
+
 1. git clone or download zip
 2. navigate to root directory
 3. create .env.local file in root directory
